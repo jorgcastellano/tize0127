@@ -35,6 +35,10 @@ body{overflow-x:hidden;font-family:"Montserrat","Helvetica Neue",Helvetica,Arial
 	margin-top: 40px !important;
 }
 
+#margin-text-perche {
+	padding-left: 15px;
+}
+
 #tamano-img {
 	width: 250px;
 	height: 360px;
