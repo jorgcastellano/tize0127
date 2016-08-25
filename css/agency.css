@@ -242,6 +242,10 @@ a#hover-color-grey span:hover {
 .margenes-bottom {
 	padding-bottom: 129px;
 }
+.color-texts h1, .color-texts h2, .color-texts h3, .color-texts h4, .color-texts h5, .color-texts h6, .color-texts p, .color-texts ul li, .color-texts ul li a {
+	color: #666152 !important;
+	text-decoration: none;
+}
 #img-banda {
 	width: 100%;
 	height: 200px;
